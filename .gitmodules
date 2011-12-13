@@ -1,0 +1,3 @@
+[submodule "dynamis"]
+	path = dynamis
+	url = git://github.com/adaburrows/dynamis.git

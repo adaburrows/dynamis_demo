@@ -1,0 +1,6 @@
+*.*~
+*#
+.DS_Store
+app/config.php
+app/error.log
+web_root/index.php
